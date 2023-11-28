@@ -28,10 +28,6 @@ I have been working as a Front-End Developer for the past two years.
 * 🚀  I'm currently working on Mern Stack.
 * 🤝  I'm open to collaborating on Open Source
 
-<a href="https://www.twitter.com/_tarnishedsoul_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_tarnishedsoul_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
