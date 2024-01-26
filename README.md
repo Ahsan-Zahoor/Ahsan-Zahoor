@@ -56,7 +56,7 @@ I have been working as a Front-End Developer for the past two years.
 -->
 <div align='center'>
   <div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Zahoor" alt="stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Zahoor" alt="git-stats" />
   </div>
 </div>
 
