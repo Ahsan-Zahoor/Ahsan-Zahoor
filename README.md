@@ -4,13 +4,13 @@
 
 ============================
 
-## Mern Stack Developer
+## PERN/MERN Stack Developer
 
-I have been working as a MERN Stack Developer for the past two years.
+I have been working as a PERN/MERN Stack Developer for more than three years.
 
 - 🌍  I'm based in Lahore, Pakistan
 - ✉️  You can contact me at [ahsanzahoor010@gmail.com](mailto:ahsanzahoor010@gmail.com)
-- 🚀  I'm currently working on MERN Stack.
+- 🚀  I'm currently working on PERN/MERN Stack.
 - 🤝  I'm open to collaborating on Open Source
 
 ### Skills
