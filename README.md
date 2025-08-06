@@ -38,7 +38,11 @@ I have been working as a PERN/MERN Stack Developer for more than three years.
 ### Badges
 
 <b>My GitHub Stats</b>
-
+<div align='center'>
+  <div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Zahoor" alt="git-stats" />
+  </div>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahsan-zahoor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -47,8 +51,4 @@ I have been working as a PERN/MERN Stack Developer for more than three years.
 <!--
 <a href="http://www.github.com/Ahsan-Zahoor"><img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Zahoor&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ahsan-Zahoor's GitHub stats" /></a>
 -->
-<div align='center'>
-  <div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Zahoor" alt="git-stats" />
-  </div>
-</div>
+
